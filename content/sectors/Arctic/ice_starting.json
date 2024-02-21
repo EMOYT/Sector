@@ -1,0 +1,14 @@
+sector: 1
+planet: Arctic
+loadout: "ice_starting"
+alwaysUnlocked: true
+research: {
+    parent: "ice_starting"
+objectives: [
+	    {
+        type: SectorComplete
+		preset: "first_ice_enemy's"
+		}
+	]
+}
+difficulty: 1

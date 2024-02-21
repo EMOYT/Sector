@@ -1,0 +1,15 @@
+{
+  "localizedName": "[#fa5700]Sevenedef",
+  "description": "The sevenedef commandor.",
+  "alwaysUnlocked": true,
+  "buildVisibility": "editorOnly",
+  "type": "LightBlock",
+  "health": 800,
+  "size": 2,
+  "research": {
+    "root": true,
+    "planet": "erekir",
+    "name": "[#fa5700]Sevenedef",
+    "requiresUnlock": false
+  }
+}

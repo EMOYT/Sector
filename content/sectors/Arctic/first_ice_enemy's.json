@@ -1,0 +1,7 @@
+sector: 2
+planet: Arctic
+loadout: "first_ice_enemy's"
+research: {
+    parent: "first_ice_enemy's"
+}
+difficulty: 0

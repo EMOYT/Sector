@@ -1,0 +1,23 @@
+type: CoreBlock
+category: effect
+health: 200
+size: 2
+
+itemCapacity: 400
+unitCapModifier: 10
+unitType: "ice-defender"
+incinerateNonBuildable: true
+isFirstTier: true
+squareSprite: false
+
+requirements: [
+    "copper/1000"
+]
+
+research: {
+    root: true
+    name: @n-techtree
+	planet: Arctic
+}
+
+alwaysUnlocked: true

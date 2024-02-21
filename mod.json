@@ -1,0 +1,12 @@
+name: "Sector",
+repo:
+author: "Klim",
+description: "[blue[]]Sector is new  [purple[]]Russian[blue[]] mod for Mindustry.",
+version: 0.2-alpha,
+minGameVersion: 136,
+
+displayName: "Sector",
+author: "[orange[]]Klim",
+subtitle: "Version: v0.2-alpha",
+
+Github: https://github.com/EMOYT/Sectror
