@@ -1,10 +1,5 @@
 <img src="https://raw.githubusercontent.com/Sectror/sprites-override/logo.png"/>
 <br><br>
-
-<a href="https://discord.gg/b6HUDS5a">
-    <img src="https://img.shields.io/discord/1061344630987292835?color=287e29&label=Discord&logo=Discord&style=for-the-badge"/>
-</a>
-</a>
 <br><br><br>
 
 
