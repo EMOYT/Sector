@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Aeyama-Mod/aeyama/main/src/assets/sprites/logo.png"/>
+<img src="https://raw.githubusercontent.com/Sectror/sprites-override/logo.png"/>
 <br><br>
 
 <a href="https://discord.gg/b6HUDS5a">
