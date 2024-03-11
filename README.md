@@ -1,25 +1,6 @@
-<img src="https://raw.githubusercontent.com/Sectror/sprites-override/logo.png"/>
-<br><br>
-<br><br><br>
-
-
-
-#### Welcome to Sectror ####
-
 
 ## Updates
-
-&emsp;- coming
-
-
-
-
-## Building
-
-
-
-## Tech Tree
-
+-coming!!! soon...
 
 
 ## Contributors
